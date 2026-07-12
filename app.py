@@ -4,7 +4,7 @@ import time
 from PIL import Image
 
 
-logo = Image.open("/content/StudyPal.png")
+logo = Image.open("StudyPal.png")
 
 
 # ======================================================
